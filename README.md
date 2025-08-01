@@ -1,1 +1,1 @@
-# MacNotificationsStats
+# notificationsStats

@@ -1,0 +1,11 @@
+# Database file
+db.sqlite
+
+# Compiled binary
+macNotificationsStats
+
+
+# IDE files
+.vscode/
+.idea/
+
